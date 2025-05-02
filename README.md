@@ -78,3 +78,5 @@ Sigue estos pasos para ejecutar la aplicación en tu máquina local:
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. (Puedes cambiar esto si prefieres otra licencia)
+
+"Inicio de mi plan de entrenamiento de IA."
